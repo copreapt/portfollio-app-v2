@@ -1,0 +1,15 @@
+@tailwind base;
+
+*::-webkit-scrollbar {
+    display: none;
+}
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    html {
+        font-family: 'Recia', serif;
+            font-family: 'Erode', serif;
+    }
+}
